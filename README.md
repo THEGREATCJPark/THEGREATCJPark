@@ -5,4 +5,3 @@
 ![Day 1](https://img.shields.io/badge/Final%20Day%201-2nd-success)
 ![Day 2](https://img.shields.io/badge/Final%20Day%202-1st-orange)
 
-Building with AI, code, and fast iteration.
