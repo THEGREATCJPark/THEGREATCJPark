@@ -1,7 +1,27 @@
+<div align="center">
+
 # THEGREATCJPark
 
-## Achievements
+<br>
 
-![KRAFTON AI R&D Hackathon Finals - Overall 2nd Place](https://img.shields.io/badge/KRAFTON%20AI%20R%26D%20Hackathon%20Finals-Overall%202nd%20Place-BFC7D5?style=for-the-badge&logo=trophy&logoColor=1F2937)
-![KRAFTON AI R&D Hackathon Finals - Day 1 2nd Place](https://img.shields.io/badge/KRAFTON%20AI%20R%26D%20Hackathon%20Finals-Day%201%202nd%20Place-D6D3D1?style=for-the-badge&logo=award&logoColor=374151)
-![KRAFTON AI R&D Hackathon Finals - Day 2 1st Place](https://img.shields.io/badge/KRAFTON%20AI%20R%26D%20Hackathon%20Finals-Day%202%201st%20Place-F4C542?style=for-the-badge&logo=trophy&logoColor=3B2F00)
+### 🏆 Achievements
+
+<br>
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%20KRAFTON%20AI%20R%26D%20Hackathon%20Finals-Day%202%20•%201st%20Place-F4C542?style=for-the-badge&labelColor=3B2F00" alt="Day 2 1st Place"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%20KRAFTON%20AI%20R%26D%20Hackathon%20Finals-Overall%20•%202nd%20Place-C0C0C0?style=for-the-badge&labelColor=4A4A4A" alt="Overall 2nd Place"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%20KRAFTON%20AI%20R%26D%20Hackathon%20Finals-Day%201%20•%202nd%20Place-CD7F32?style=for-the-badge&labelColor=5C3A1E" alt="Day 1 2nd Place"/>
+
+<br><br>
+
+---
+
+<sub>⚡ Powered by curiosity & caffeine</sub>
+
+</div>
